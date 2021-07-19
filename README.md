@@ -1,3 +1,4 @@
+
 ![MVI_0003 00_02_20_04 Still002](https://user-images.githubusercontent.com/19898602/126166204-828dd2f6-c209-4696-9cfb-c64620ff6a61.jpg)
 
 
@@ -104,5 +105,5 @@ I have also placed 4 rubber pads at the bottom of the frame for better vibration
 >Output shaft supported by two ball bearings
 
 
-
+![MVI_0014 mp4 00_04_39_12 Still003](https://user-images.githubusercontent.com/19898602/126169067-a7fc4ad8-7da9-4000-9b0d-0997ffbd3d59.jpg)
 
