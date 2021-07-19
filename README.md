@@ -23,6 +23,10 @@ I have used arduino nano as brain for this machine and used a custom made PCB wh
 
 # VIDEO
 
+
+https://www.youtube.com/watch?v=vvFKuOKtCbw
+
+
 This the link of complete video you can watch the video from here where I have demonstrated complete steps
 
 in order to build this cool DIY Antenna spring coil making machine | Arduino Project.
@@ -54,4 +58,51 @@ in order to build this cool DIY Antenna spring coil making machine | Arduino Pro
 
 
 > Arduino Nano -- 1
+
+
+![MVI_0014 mp4 00_02_03_14 Still001](https://user-images.githubusercontent.com/19898602/126167859-d200a330-b75a-4a61-b364-182e9ce0466b.jpg)
+
+I have used 20 x 20 Alu. profile for the frame construction of the machine
+
+aluminum extrusion are the best option to build such frame by using T nuts we can place most of the components on it.
+
+I have also placed 4 rubber pads at the bottom of the frame for better vibration cancellation.
+
+
+![MVI_0014 mp4 00_03_12_09 Still002](https://user-images.githubusercontent.com/19898602/126168552-21534387-d4f8-4d5b-9335-e0a0380802a9.jpg)
+
+
+>Size: 42.3 mm square × 48 mm, not including the shaft (NEMA 17)
+
+
+>Weight: 350 g (13 oz)
+
+
+>Shaft diameter: 5 mm “D”
+
+
+>Steps per revolution: 200
+
+
+>Current rating: 1.2 A per coil
+
+
+>Voltage rating: 4 V
+
+>Resistance: 3.3 Ω per coil
+
+
+>Holding torque: 3.2 kg-cm (44 oz-in)
+
+
+>Inductance: 2.8 mH per coil
+
+
+>Lead length: 30 cm (12″)
+
+
+>Output shaft supported by two ball bearings
+
+
+
 
